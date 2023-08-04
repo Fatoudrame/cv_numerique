@@ -28,7 +28,7 @@
 .container
 {
     display: flex;
-    height: 900px;
+    height: 100vh;
     margin: 10% 20%;
     
 }
